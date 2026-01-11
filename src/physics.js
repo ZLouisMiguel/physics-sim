@@ -9,7 +9,7 @@ export function trajectory(v0, angle, dt = 0.02) {
 
   while (true) {
     const x = vx * t;
-    const y = (vy * t) - (0.5 * g * t * t);
+    const y = vy * t - 0.5 * g * t * t;
 
     if (y < 0) break;
 
