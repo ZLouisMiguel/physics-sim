@@ -1,0 +1,21 @@
+{
+  "name": "physics-sim",
+  "version": "1.0.0",
+  "description": "A physics simulation project focused on learning physics concepts through code",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx serve public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZLouisMiguel/physics-sim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ZLouisMiguel/physics-sim/issues"
+  },
+  "homepage": "https://github.com/ZLouisMiguel/physics-sim#readme"
+}
